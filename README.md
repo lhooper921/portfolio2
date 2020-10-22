@@ -7,7 +7,7 @@ Portfolio site
 3. [License](#license)
 
 ## Description
-The goal of this project was to create a responsive website using Bootstrap, HTML, and additional CSS. The breakpoints given were 640px, 768px, and 980px to represent various viewport widths. Updated: 08/25/2020
+This is a responsive portfolio site that utilizes bootstrap to create a smooth user experience while showcasing the highlights of my work.
 
 ## Screenshots
 
