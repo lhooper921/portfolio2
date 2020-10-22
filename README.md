@@ -4,60 +4,44 @@ Portfolio site
 ## Table of Contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
-3. [Testing](#testing)
+3. [Deployed Application](#deployed-application)
+4. [License](#license)
 
 ## Description
-The goal of this project was to create a responsive website using Bootstrap, HTML, and additional CSS. The breakpoints given were 640px, 768px, and 980px to represent various viewport widths. Updated: 08/25/2020
+This is a responsive portfolio site that utilizes bootstrap to create a smooth user experience while showcasing the highlights of my work.
 
 ## Screenshots
 
 ### Updated About me Page
-![Screenshot About me](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/updatedAbout.PNG)
+![Screenshot About me](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/index.PNG)
 
-### Updated Portfolio Page
-![Screenshot Portfolio](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/updatedPortfolio.PNG)
+### Updated Portfolio Page with Carousel
+![Screenshot Portfolio](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/portfolio.PNG)
 
-### Updated Contact Page
-![Screenshot Contact](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/updatedContact.PNG)
+### Updated Portfolio Page with Details
+![Screenshot details](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/details.PNG)
 
-### Home Page max width 640px
+### Contact Page
 
-![Screenshot Home 640](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/index640.PNG)
+![Screenshot contact](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/contact.PNG)
 
-### Home Page max width 768px
+### Mobile View
 
-![Screenshot Home 768](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/index768.PNG)
+![Screenshot mobile view](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/mobile1.PNG)  
 
-### Contact Page max width 980px
+## Deployed Application  
 
-![Home Home 980](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/index980.PNG)
+https://lhooper921.github.io/portfolio2/
 
-### Contact Page max width 640px
 
-![Screenshot Contact 640](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/contact640.PNG)
+## License
 
-### Contact Page max width 768px
+MIT License
 
-![Screenshot Contact 768](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/contact768.PNG)
+Copyright (c) [2020] [Lauren Hooper | Konoa McKay | King Ting | Connor Melton]
 
-### Contact Page max width 980px
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-![Screenshot Contact 980](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/contact980.PNG)
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Portfolio Page max width 640px
-
-![Screenshot Portfolio 640](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/portfolio640.PNG)
-
-### Portfolio Page max width 768px
-
-![Screenshot Portfolio 768](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/portfolio768.PNG)
-
-### Portfolio Page max width 980px
-
-![Screenshot Portfolio 980](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/portfolio980.PNG)
-
-## Testing
-
-All HTML was tested using https://validator.w3.org/ 
-
-![Validation](https://github.com/lhooper921/Responsive_Portfolio/blob/master/Screenshots/Validation-index.PNG)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
