@@ -4,7 +4,8 @@ Portfolio site
 ## Table of Contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
-3. [License](#license)
+3. [Deployed Application](#deployed-application)
+4. [License](#license)
 
 ## Description
 This is a responsive portfolio site that utilizes bootstrap to create a smooth user experience while showcasing the highlights of my work.
@@ -26,7 +27,12 @@ This is a responsive portfolio site that utilizes bootstrap to create a smooth u
 
 ### Mobile View
 
-![Screenshot mobile view](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/mobile1.PNG)
+![Screenshot mobile view](https://github.com/lhooper921/portfolio2/blob/main/assets/images/screenshots/mobile1.PNG)  
+
+## Deployed Application  
+
+https://lhooper921.github.io/portfolio2/
+
 
 ## License
 
