@@ -8,7 +8,7 @@ Portfolio site
 4. [License](#license)
 
 ## Description
-This is a responsive portfolio site that utilizes bootstrap to create a smooth user experience while showcasing the highlights of my work.
+This is a responsive portfolio site that utilizes React and Material UI  to create a smooth user experience while showcasing the highlights of my work.
 
 ## Screenshots
 
